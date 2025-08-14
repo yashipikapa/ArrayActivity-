@@ -1,4 +1,5 @@
-Julia Yashika A. Kong & Kyla Marie Caballero   BSIT-2
+Julia Yashika A. Kong & Kyla Marie Caballero   
+BSIT-2
 
 ✏️ Activity 1: Array Manipulation
 
